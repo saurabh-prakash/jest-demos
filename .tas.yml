@@ -10,5 +10,5 @@ preMerge:
   pattern: 
     - "**/*.test.js"
 preRun: 
-  command: 
+  command:
     - npm ci
