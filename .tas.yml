@@ -11,4 +11,4 @@ preMerge:
     - "**/*.test.js"
 preRun: 
   command: 
-    - npm ci    
+    - npm ci
